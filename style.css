@@ -39,6 +39,8 @@ main p {
 
 main img {
     border: 10px solid #00782D;
+    width:400px;
+    height:500px;
 }
 
 footer h1 {
